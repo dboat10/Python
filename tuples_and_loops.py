@@ -1,5 +1,5 @@
 # Date: 08/24/2022
-# Description: Iterating over tuple elements in default and reverse orders.
+# Description: Iterating over tuple elements in default and reverse orders
 
 # Creating an empty tuples with variable name cars.
 cars = ()
